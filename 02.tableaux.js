@@ -22,3 +22,4 @@ var resultatSome = villes.some(function(element){
 console.log('auMoinsUneVilleAvecUnTiret =' + resultatSome);
 
 //exercice filter
+var 
